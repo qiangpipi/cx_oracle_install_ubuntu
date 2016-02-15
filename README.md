@@ -10,7 +10,7 @@
 
 ```
 sudo apt-get install python-dev
-sudo apt-get install alient
+sudo apt-get install alien
 sudo apt-get install libaio1
 ```
 

@@ -20,9 +20,9 @@ Download:
 - oracle-instantclientxx.x-devel-xx.x.x.x.x-x.x86_64.rpm
 
 ```
-sudo alient -i oracle-instantclientxx.x-basiclite-xx.x.x.x.x-x.x86_64.rpm
-sudo alient -i oracle-instantclientxx.x-sqlplus-xx.x.x.x.x-x.x86_64.rpm
-sudo alient -i oracle-instantclientxx.x-devel-xx.x.x.x.x-x.x86_64.rpm
+sudo alien -i oracle-instantclientxx.x-basiclite-xx.x.x.x.x-x.x86_64.rpm
+sudo alien -i oracle-instantclientxx.x-sqlplus-xx.x.x.x.x-x.x86_64.rpm
+sudo alien -i oracle-instantclientxx.x-devel-xx.x.x.x.x-x.x86_64.rpm
 ```
 
 Download:
